@@ -1,6 +1,6 @@
 # Impoving-Extractive-Summaization-With-Knowledge-Injection
 
-**Python version**: This code is in Python3.6
+**Python version**: This code is in Python 3.8
 
 **Package Requirements**: torch==1.13.0 pytorch_transformers tensorboardX multiprocess pyrouge
 
